@@ -44,5 +44,5 @@ This is the place where I learn to code 🙃
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
   ## 👾  What I am interested in learning at some point
   <a name="learning-next"></a>
-  <img src="https://skillicons.dev/icons?theme=dark&i=kafka" width="40" height="40" title="Neural-Networks"></a>
+  <img src="https://skillicons.dev/icons?theme=dark&i=ai" width="40" height="40" title="Neural-Networks"></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="40" height="40" title="Docker"></a>
