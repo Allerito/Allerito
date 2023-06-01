@@ -17,7 +17,7 @@ This is the place where I learn to code 🙃
 <a href="https://discord.com/users/413677992410349568"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
 <a href="https://www.linkedin.com/in/rubenallera/"><img src="https://skillicons.dev/icons?theme=dark&i=linkedin" width="40" height="40" title="LinkedIn"></a>
 <a href="https://t.me/allerito"><img src="https://cdn.discordapp.com/attachments/842649255608975360/1113762723629645844/telegram_icon.png" width="40" height="40" title="Telegram"></a>
-
+  <a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://allerito.github.io/)"><img src="https://skillicons.dev/icons?theme=dark&i=html" width="40" height="40" title="My_Site"></a>
 
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/Allerito/github-stats-transparent/output/generated/languages.svg" alt="Allerito_lang" align="right" />
@@ -44,5 +44,6 @@ This is the place where I learn to code 🙃
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
   ## 👾  What I am interested in learning at some point
   <a name="learning-next"></a>
-  <img src="https://skillicons.dev/icons?theme=dark&i=ai" width="40" height="40" title="Neural-Networks"></a>
+  <img src="https://skillicons.dev/icons?theme=dark&i=ai" width="40" height="40" title="AI"></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="40" height="40" title="Docker"></a>
+  <a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="40" height="40" title="Linux"></a>
