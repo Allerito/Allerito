@@ -28,6 +28,7 @@ This is the place where I learn to code 🙃
 <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="40" height="40" title="PHP"></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="40" height="40" title="Python"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?theme=dark&i=cs" width="40" height="40" title="C#"></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="40" height="40" title="Figma"></a>
 <a href="https://unity.com/"><img src="https://skillicons.dev/icons?theme=dark&i=unity" width="40" height="40" title="Unity"></a>
 <a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?theme=dark&amp;i=godot" width="40" height="40" title="Godot"></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" width="40" height="40" title="Visual Studio Code"></a>
@@ -41,6 +42,6 @@ This is the place where I learn to code 🙃
   
 ## 👾  What I am interested in learning at some point
 <a name="learning-next"></a>
-<img src="https://skillicons.dev/icons?theme=dark&i=ai" width="40" height="40" title="AI"></a>
+<img src="https://skillicons.dev/icons?theme=dark&i=aiscript" width="40" height="40" title="AI"></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="40" height="40" title="Docker"></a>
 <a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="40" height="40" title="Linux"></a>
