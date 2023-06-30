@@ -36,7 +36,7 @@ This is the place where I learn to code 🙃
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="40" height="40" title="Git"></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="40" height="40" title="MySQL"></a>
   
-## 📖  What I am currently learning / improving on
+## 📖  Improving on
 <a name="learning-next"></a>
 <a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?theme=dark&i=bots" width="40" height="40" title="Bots"></a>
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
