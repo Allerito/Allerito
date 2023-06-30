@@ -26,6 +26,7 @@ This is the place where I learn to code 🙃
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?theme=dark&i=css" width="40" height="40" title="CSS"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="40" height="40" title="JavaScript"></a>
 <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="40" height="40" title="PHP"></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="40" height="40" title="PostMan"></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="40" height="40" title="Python"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?theme=dark&i=cs" width="40" height="40" title="C#"></a>
 <a href="https://unity.com/"><img src="https://skillicons.dev/icons?theme=dark&i=unity" width="40" height="40" title="Unity"></a>
@@ -37,7 +38,6 @@ This is the place where I learn to code 🙃
   
 ## 📖  What I am currently learning / improving on
 <a name="learning-next"></a>
-<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="40" height="40" title="PostMan"></a>
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
   
 ## 👾  What I am interested in learning at some point
