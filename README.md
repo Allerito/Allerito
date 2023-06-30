@@ -38,7 +38,7 @@ This is the place where I learn to code 🙃
   
 ## 📖  What I am currently learning / improving on
 <a name="learning-next"></a>
-<a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?theme=dark&i=bots"></a>
+<a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?theme=dark&i=bots" width="40" height="40" title="Bots"></a>
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
   
 ## 👾  What I am interested in learning at some point
