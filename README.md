@@ -28,6 +28,7 @@ This is the place where I learn to code 🙃
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="40" height="40" title="PostMan"></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="40" height="40" title="Python"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?theme=dark&i=cs" width="40" height="40" title="C#"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/"><img src="https://skillicons.dev/icons?theme=dark&i=dotnet" width="40" height="40" title=".NET"></a>
 <a href="https://unity.com/"><img src="https://skillicons.dev/icons?theme=dark&i=unity" width="40" height="40" title="Unity"></a>
 <a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?theme=dark&amp;i=godot" width="40" height="40" title="Godot"></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="40" height="40" title="Figma"></a>
