@@ -44,4 +44,5 @@ This is the place where I learn to code 🙃
 <a name="learning-next"></a>
 <img src="https://skillicons.dev/icons?theme=dark&i=aiscript" width="40" height="40" title="AI"></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="40" height="40" title="Docker"></a>
+<a href="https://cassandra.apache.org/"><img src="https://skillicons.dev/icons?i=cassandra" width="40" height="40" title="Cassandra"></a>
 <a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="40" height="40" title="Linux"></a>
