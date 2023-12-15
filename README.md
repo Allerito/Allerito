@@ -40,6 +40,8 @@ This is the place where I learn to code 🙃
 ## 📖  Improving on
 <a name="learning-next"></a>
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
+<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?theme=dark&i=rust" width="40" height="40" title="RustLang"></a>
+<a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?theme=dark&i=githubactions" width="40" height="40" title="GithubActions"></a>
   
 ## 👾  What I am interested in learning at some point
 <a name="learning-next"></a>
