@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Allerito/github-stats-transparent/output/generated/overview.svg" alt="Allerito_stats" align="right" />
 </a>
 
-### Hi there, I'm Allerito 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
+### Hi there, I'm Allerito <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
 This is the place where I learn to code 🙃
 
 > "In God we trust. All others must bring data."
