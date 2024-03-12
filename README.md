@@ -14,7 +14,6 @@ This is the place where I learn to code 🙃
 
 ## 🔗 &nbsp;Connect with me
 <a href="https://discord.com/users/413677992410349568"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
-<a href="https://t.me/allerito"><img src="https://cdn.discordapp.com/attachments/842649255608975360/1113762723629645844/telegram_icon.png" width="40" height="40" title="Telegram"></a>
 <a href="https://dev.to/allerito"><img src="https://skillicons.dev/icons?theme=dark&i=devto" width="40" height="40" title="DevTo"></a>
 <a href="https://stackoverflow.com/users/23129423/allerito"><img src="https://skillicons.dev/icons?theme=dark&i=stackoverflow" width="40" height="40" title="StackOverflow"></a>
 
@@ -43,6 +42,7 @@ This is the place where I learn to code 🙃
 <a name="learning-next"></a>
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
 <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?theme=dark&i=rust" width="40" height="40" title="RustLang"></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="40" height="40" title="NodeJs"></a>
 <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?theme=dark&i=githubactions" width="40" height="40" title="GithubActions"></a>
   
 ## 👾  What I am interested in learning at some point
