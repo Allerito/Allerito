@@ -14,8 +14,7 @@ This is the place where I learn to code 🙃
 
 ## 🔗 &nbsp;Connect with me
 <a href="https://discord.com/users/413677992410349568"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
-<a href="https://dev.to/allerito"><img src="https://skillicons.dev/icons?theme=dark&i=devto" width="40" height="40" title="DevTo"></a>
-<a href="https://stackoverflow.com/users/23129423/allerito"><img src="https://skillicons.dev/icons?theme=dark&i=stackoverflow" width="40" height="40" title="StackOverflow"></a>
+<a href="https://www.linkedin.com/in/rubenallera/"><img src="https://skillicons.dev/icons?theme=dark&i=linkedin" width="40" height="40" title="LinkedIn"></a>
 
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/Allerito/github-stats-transparent/output/generated/languages.svg" alt="Allerito_lang" align="right" />
@@ -40,14 +39,13 @@ This is the place where I learn to code 🙃
 
 ## 📖  Improving on
 <a name="learning-next"></a>
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="40" height="40" title="NodeJs"></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?theme=dark&i=mongodb" width="40" height="40" title="MongoDB"></a>
 <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?theme=dark&i=rust" width="40" height="40" title="RustLang"></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?theme=dark&i=typescript" width="40" height="40" title="TypeScript"></a>
+<a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?theme=dark&i=tauri" width="40" height="40" title="Tauri"></a>
 <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?theme=dark&i=githubactions" width="40" height="40" title="GithubActions"></a>
-<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="40" height="40" title="Linux"></a>
 
 ## 👾  What I am interested in learning at some point
 <a name="learning-next"></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="40" height="40" title="NodeJs"></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?theme=dark&i=mongodb" width="40" height="40" title="MongoDB"></a>
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" title="AWS"></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="40" height="40" title="Docker"></a>
-<a href="https://cassandra.apache.org/"><img src="https://skillicons.dev/icons?i=cassandra" width="40" height="40" title="Cassandra"></a>
